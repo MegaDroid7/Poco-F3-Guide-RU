@@ -1,0 +1,35 @@
+# Пресет создан в программе ADB AppControl версии: 1.7.7.1
+# Приложений всего: 31
+# 2022-10-18_09:04:59
+# Xiaomi M2012K11AG Отключенные приложения
+com.miui.analytics
+com.google.android.projection.gearhead
+com.android.egg
+com.android.bookmarkprovider
+com.android.chrome
+com.android.providers.partnerbookmarks
+com.facebook.system
+com.facebook.appmanager
+com.facebook.services
+com.google.android.apps.subscriptions.red
+com.google.android.partnersetup
+com.xiaomi.joyose
+com.xiaomi.payment
+com.mipay.wallet.in
+com.miui.mishare.connectivity
+com.miui.videoplayer
+com.miui.daemon
+com.miui.msa.global
+com.miui.hybrid
+com.miui.audiomonitor
+com.qti.xdivert
+com.tencent.soter.soterserver
+com.qualcomm.wfd.service
+com.android.emergency
+com.google.android.apps.maps
+com.android.stk
+com.miui.player
+com.google.android.feedback
+com.miui.miservice
+com.miui.yellowpage
+com.milink.service
