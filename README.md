@@ -18,8 +18,6 @@ description: >-
 
 Создатель гайда - [MegaDroid](https://t.me/MegaDroid7).
 
-Редактор - [CDxD](https://t.me/cdxd0).
-
 Чат Poco F3 - [https://t.me/PocoF3Russia](https://t.me/PocoF3Russia)
 
-Помощь в составлении гайда - 𝕤𝕡𝕒𝕣𝕜.𝕠𝕟𝕖𝕣
+Помощь в составлении гайда - [CDxD](https://t.me/cdxd0), 𝕤𝕡𝕒𝕣𝕜.𝕠𝕟𝕖𝕣
