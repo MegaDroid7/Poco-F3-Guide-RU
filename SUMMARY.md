@@ -17,7 +17,7 @@
 * [⏩ Универсальный гайд по прошивке](ROMs/universal-guide.md)
 * [🇨🇳 xiaomi.eu](ROMs/xiaomi.eu.md)
 * [🥒 Pixel Experience](ROMs/Pixel-Experience.md)
-* [⚫ VoidUI](ROMs/VoidUI.md)
+* [⚫ VoidUI (EOL)](ROMs/voidui.md)
 
 ## 🌛 Ядра <a href="#kernels" id="kernels"></a>
 

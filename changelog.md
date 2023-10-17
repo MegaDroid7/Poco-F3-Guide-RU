@@ -6,6 +6,12 @@ description: Тут будет отчёт по каждому изменению
 
 ### 2023:
 
+17 октября:
+
+* Наконец-то, был найден способ решения проблемы[find-device-storage-corrupted.md](problem-fix/find-device-storage-corrupted.md "mention")
+* Замена ">" на "QA" в [seamless-updates.md](beginning/seamless-updates.md "mention")
+* Добавление заметки и записи об окончании жизни прошивки VoidUI [voidui.md](ROMs/voidui.md "mention")
+
 9 сентября:
 
 * Удаление пункта "установка из fastboot" из-за неправильной информации
@@ -29,7 +35,7 @@ description: Тут будет отчёт по каждому изменению
 8 марта:
 
 * Обновление гайда [xiaomi.eu.md](ROMs/xiaomi.eu.md "mention") (актуализация информации)
-* Обновление гайда [VoidUI.md](ROMs/VoidUI.md "mention") (актуализация информации)
+* Обновление гайда [voidui.md](ROMs/voidui.md "mention") (актуализация информации)
 * Добавление гайда [universal-guide-kernel.md](kernels/universal-guide-kernel.md "mention")
 * Добавление гайда [no-gravity-kernel.md](kernels/no-gravity-kernel.md "mention")
 * Добавление гайда [realking.md](kernels/realking.md "mention")
