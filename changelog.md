@@ -6,6 +6,11 @@ description: Тут будет отчёт по каждому изменению
 
 ### 2023:
 
+22 декабря:
+
+* Замена Safetynet fix на Play Integrity Fix
+* Фикс гайда на MIR Pay
+
 17 октября:
 
 * Наконец-то, был найден способ решения проблемы[find-device-storage-corrupted.md](problem-fix/find-device-storage-corrupted.md "mention")
