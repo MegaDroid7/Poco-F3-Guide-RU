@@ -2,11 +2,13 @@
 
 * [👀 Poco F3 / Redmi K40 / Mi 11x](README.md)
 * [📄 Изменения](changelog.md)
+* [🎆 Прощальное письмо](proshalnoe-pismo.md)
 
 ## 🥑 База <a href="#beginning" id="beginning"></a>
 
 * [📱 Название устройства](beginning/device-name.md)
-* [🖇 Комбинации кнопок](beginning/button-combinations.md)
+* [🖇️ Комбинации кнопок](beginning/button-combinations.md)
+* [ADB, fastboot, драйвера](beginning/adb-fastboot-draivera.md)
 * [🎰 Слоты и как они работают](beginning/seamless-updates.md)
 * [🔓 Разблокировка загрузчика](beginning/bootloader-unlock.md)
 * [🔃 Установка Recovery](beginning/recovery-install.md)
@@ -15,9 +17,10 @@
 ## 📲 Прошивки <a href="#ROMs" id="ROMs"></a>
 
 * [⏩ Универсальный гайд по прошивке](ROMs/universal-guide.md)
+* [🪿 PixelOS](roms/pixelos.md)
 * [🇨🇳 xiaomi.eu](ROMs/xiaomi.eu.md)
-* [🥒 Pixel Experience](ROMs/Pixel-Experience.md)
-* [⚫ VoidUI (EOL)](ROMs/voidui.md)
+* [🎨 HyperArt](roms/hyperart.md)
+* [OxygenOS 14.1 (OP 11R)](roms/oxygenos-14.1-op-11r.md)
 
 ## 🌛 Ядра <a href="#kernels" id="kernels"></a>
 
@@ -31,18 +34,14 @@
 * [🎭 Установка Magisk](magisk/magisk-install.md)
 * [🪤 Модули для Magisk](magisk/magisk-modules.md)
 
-## 📷 Камера <a href="#camera" id="camera"></a>
-
-* [📸 GCam](camera/gcam.md)
-* [🎥 MIUI Camera](camera/miui-camera.md)
-
 ## 🚙 Полезности <a href="#utilities" id="utilities"></a>
 
+* [🔑 Восстановление TEE](utilities/vosstanovlenie-tee.md)
 * [💳 Фикс платежных приложений (Google Pay, MIR Pay)](utilities/google-pay-fix.md)
 * [🔋 Отключение ненужных приложений](utilities/system-optimisation.md)
 * [🔐 Снятие шифрования (DFE)](utilities/disable-dfe.md)
 
-## 👨🏭 Решение проблем <a href="#problem-fix" id="problem-fix"></a>
+## 👨‍🏭 Решение проблем <a href="#problem-fix" id="problem-fix"></a>
 
 * [Хранилище повреждено. Ваше устройство под угрозой.](problem-fix/find-device-storage-corrupted.md)
 * [Не запускается кастомное Recovery](problem-fix/ne-zapuskaetsya-kastomnoe-recovery.md)

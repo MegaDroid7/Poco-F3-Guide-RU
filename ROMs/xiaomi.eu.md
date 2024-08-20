@@ -9,14 +9,14 @@ description: >-
 Если вы хотели попробовать чистый MIUI, то вы по адресу. xiaomi.eu считается хорошей MIUI прошивкой. Вы получите не только MIUI лаунчер и звонилку с записью вызовов, но ещё и китайское приложение "Темы" с возможностью импорта кастомной темы.
 
 {% hint style="success" %}
-Последние сборки MIUI 14 от команды xiaomi.eu начали поставляться с гибридными способами установки. Выбирайте любой удобный вам представленный ниже способ установки прошивки.
+Последние сборки MIUI 14/HyperOS от команды xiaomi.eu начали поставляться с гибридными способами установки. Выбирайте любой удобный вам представленный ниже способ установки прошивки.
 {% endhint %}
 
 {% tabs %}
 {% tab title="Fastboot" %}
 ### Установка:
 
-1. Скачайте последнюю прошивку ([Ссылка на форум](https://xiaomi.eu/community/forums/miui-14.222/))
+1. Скачайте последнюю прошивку ([Ссылка на форум](https://xiaomi.eu/community/threads/hyperos-1-0-stable-release.71170/))
 2. Распакуйте архив
 3. Перезапустите телефон в режиме Fastboot [button-combinations.md](../beginning/button-combinations.md "mention")
 4. Подключите телефон к компьютеру
@@ -28,7 +28,7 @@ description: >-
 
 ### Обновление:
 
-1. Скачайте последнюю прошивку ([Ссылка на форум](https://xiaomi.eu/community/forums/miui-14.222/))
+1. Скачайте последнюю прошивку ([Ссылка на форум](https://xiaomi.eu/community/threads/hyperos-1-0-stable-release.71170/))
 2. Распакуйте архив
 3. Перезапустите телефон в режиме Fastboot [button-combinations.md](../beginning/button-combinations.md "mention")
 4. Подключите телефон к компьютеру
@@ -39,7 +39,7 @@ description: >-
 {% tab title="Recovery" %}
 ### Установка:
 
-1. Скачайте прошивку ([Ссылка на форум](https://xiaomi.eu/community/forums/miui-14.222/))
+1. Скачайте прошивку ([Ссылка на форум](https://xiaomi.eu/community/threads/hyperos-1-0-stable-release.71170/))
 2. Скачайте рекавери для вашего телефона [#ssylki-dlya-skachivaniya-recovery](../beginning/recovery-install.md#ssylki-dlya-skachivaniya-recovery "mention")
 3. Перезапустите телефон в режиме Fastboot
 4. Подключите телефон к компьютеру
@@ -59,7 +59,7 @@ description: >-
 
 ### Обновление:
 
-1. Скачайте прошивку ([Ссылка на форум](https://xiaomi.eu/community/forums/miui-14.222/))
+1. Скачайте прошивку ([Ссылка на форум](https://xiaomi.eu/community/threads/hyperos-1-0-stable-release.71170/))
 2. Скачайте рекавери для вашего телефона [#ssylki-dlya-skachivaniya-recovery](../beginning/recovery-install.md#ssylki-dlya-skachivaniya-recovery "mention")
 3. Перезапустите телефон в режиме Fastboot [button-combinations.md](../beginning/button-combinations.md "mention")
 4. Подключите телефон к компьютеру

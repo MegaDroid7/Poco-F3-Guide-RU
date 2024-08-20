@@ -16,8 +16,16 @@ description: >-
 Перед каждым действием **делайте бекап всех разделов телефона!**
 {% endhint %}
 
+{% hint style="danger" %}
+Гайд больше не обновляется.
+
+Множество информации, представленное в нем, **не теряют актуальности** и являются универсальным для любого устройства Xiaomi на процессоре Snapdragon.
+{% endhint %}
+
 Создатель гайда - [MegaDroid](https://t.me/MegaDroid7).
 
 Чат Poco F3 - [https://t.me/PocoF3Russia](https://t.me/PocoF3Russia)
 
-Помощь в составлении гайда - [CDxD](https://t.me/cdxd0), 𝕤𝕡𝕒𝕣𝕜.𝕠𝕟𝕖𝕣
+Помощь в составлении гайда - [CDxD](https://t.me/cdxd0), 𝕤𝕡𝕒𝕣𝕜.𝕠𝕟𝕖𝕣.
+
+Благодарности - 4pda, xda, johnmart19, chiteroman, Dell, NotZeetaa.
